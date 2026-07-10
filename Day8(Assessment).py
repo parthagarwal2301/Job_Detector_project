@@ -1,4 +1,4 @@
-%%writefile assessment_app.py
+%%writefile Day8(Assessment).py
 
 import streamlit as st
 import pickle
